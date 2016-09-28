@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<UserConfig>
+	<Group id="gmConfigStats" displayName="Mods.gmConfig_Menu.gmConfig_Stats">
+		<PresetsArray>
+			<Preset id="0" displayName="gmConfig_off">
+				<Entry varId="enableTakeNoDamage" value="false"/>
+				<Entry varId="enableNoFalling" value="false"/>
+				<Entry varId="enableMaxFocus" value="false"/>
+				<Entry varId="enableMaxStamina" value="false"/>
+				<Entry varId="modeLife" value="0"/>
+				<Entry varId="enableMaxAir" value="false"/>
+			</Preset>
+			<Preset id="1" displayName="gmConfig_Default">
+				<Entry varId="enableTakeNoDamage" value="true"/>
+				<Entry varId="enableNoFalling" value="true"/>
+				<Entry varId="enableMaxFocus" value="true"/>
+				<Entry varId="enableMaxStamina" value="true"/>
+				<Entry varId="modeLife" value="2"/>
+				<Entry varId="enableMaxAir" value="true"/>
+			</Preset>
+		</PresetsArray>
+		<VisibleVars>
+			<Var id="enableTakeNoDamage" displayName="gmConfig_enableTakeNoDamage" displayType="TOGGLE"/>
+			<Var id="modeLife" displayName="gmConfig_modeLife" displayType="OPTIONS">
+				<OptionsArray>
+					<Option id="0" displayName="gmConfig_modeLife_none">
+						<Entry varId="gmConfig_modeLife" value="0"/>
+					</Option>
+					<Option id="1" displayName="gmConfig_modeLife_undying">
+						<Entry varId="gmConfig_modeLife" value="1"/>
+					</Option>
+					<Option id="2" displayName="gmConfig_modeLife_secondlife">
+						<Entry varId="gmConfig_modeLife" value="2"/>
+					</Option>
+				</OptionsArray>
+			</Var>
+			<Var id="enableNoFalling" displayName="gmConfig_enableNoFalling" displayType="TOGGLE"/>
+			<Var id="enableMaxFocus" displayName="gmConfig_enableMaxFocus" displayType="TOGGLE"/>
+			<Var id="enableMaxStamina" displayName="gmConfig_enableMaxStamina" displayType="TOGGLE"/>
+			<Var id="enableMaxAir" displayName="gmConfig_enableMaxAir" displayType="TOGGLE"/>
+		</VisibleVars>
+	</Group>
+	<Group id="gmConfigDamage" displayName="Mods.gmConfig_Menu.gmConfig_Damage">
+		<PresetsArray>
+			<Preset id="0" displayName="gmConfig_off">
+				<Entry varId="amountDamageMult" value="1.00"/>
+				<Entry varId="amountBombDamageMult" value="1.00"/>
+				<Entry varId="amountCBDamageMult" value="1.00"/>
+				<Entry varId="amountFFDamageMult" value="1.00"/>
+				<Entry varId="amountSignDamageMult" value="1.00"/>
+				<Entry varId="amountSSDamageMult" value="1.00"/>
+			</Preset>
+			<Preset id="1" displayName="gmConfig_Default">
+				<Entry varId="amountDamageMult" value="1.00"/>
+				<Entry varId="amountBombDamageMult" value="1.00"/>
+				<Entry varId="amountCBDamageMult" value="1.00"/>
+				<Entry varId="amountFFDamageMult" value="1.00"/>
+				<Entry varId="amountSignDamageMult" value="1.00"/>
+				<Entry varId="amountSSDamageMult" value="1.00"/>
+			</Preset>
+		</PresetsArray>
+		<VisibleVars>
+			<Var id="amountDamageMult" displayName="gmConfig_amountDamageMult" displayType="SLIDER;0;50;200"/>
+			<Var id="amountBombDamageMult" displayName="gmConfig_amountBombDamageMult" displayType="SLIDER;0;50;200"/>
+			<Var id="amountCBDamageMult" displayName="gmConfig_amountCBDamageMult" displayType="SLIDER;0;50;200"/>
+			<Var id="amountFFDamageMult" displayName="gmConfig_amountFFDamageMult" displayType="SLIDER;0;50;200"/>
+			<Var id="amountSignDamageMult" displayName="gmConfig_amountSignDamageMult" displayType="SLIDER;0;50;200"/>
+			<Var id="amountSSDamageMult" displayName="gmConfig_amountSSDamageMult" displayType="SLIDER;0;50;200"/>
+		</VisibleVars>
+	</Group>
+	<Group id="gmConfigCraft" displayName="Mods.gmConfig_Menu.gmConfig_Craft">
+		<PresetsArray>
+			<Preset id="0" displayName="gmConfig_off">
+				<Entry varId="enableCraftAnywhere" value="false"/>
+				<Entry varId="enableFreeCrafting" value="false"/>
+				<Entry varId="enableNoMatCrafting" value="false"/>
+			</Preset>
+			<Preset id="1" displayName="gmConfig_Default">
+				<Entry varId="enableCraftAnywhere" value="true"/>
+				<Entry varId="enableFreeCrafting" value="true"/>
+				<Entry varId="enableNoMatCrafting" value="true"/>
+			</Preset>
+		</PresetsArray>
+		<VisibleVars>
+			<Var id="enableCraftAnywhere" displayName="gmConfig_enableCraftAnywhere" displayType="TOGGLE"/>
+			<Var id="enableFreeCrafting" displayName="gmConfig_enableFreeCrafting" displayType="TOGGLE"/>
+			<Var id="enableNoMatCrafting" displayName="gmConfig_enableNoMatCrafting" displayType="TOGGLE"/>
+		</VisibleVars>
+	</Group>
+	<Group id="gmConfigEffects" displayName="Mods.gmConfig_Menu.gmConfig_Effects">
+		<PresetsArray>
+			<Preset id="0" displayName="gmConfig_off">
+				<Entry varId="enableNoEncumbered" value="false"/>
+				<Entry varId="enableQuenNoBreak" value="false"/>
+				<Entry varId="timeQuenNoBreak" value="0.00"/>
+				<Entry varId="enableSetToxicity" value="false"/>
+				<Entry varId="percentSetToxicity" value="0.00"/>
+				<Entry varId="enableNoToxicityCamEffect" value="false"/>
+				<Entry varId="typeWeather" value="0"/>
+				<!--<Entry varId="effImmune" value="false"/>
+				<Entry varId="effImmune_burn" value="false"/>
+				<Entry varId="effImmune_poison" value="false"/>
+				<Entry varId="effImmune_bleed" value="false"/>
+				<Entry varId="effImmune_stagger" value="false"/>
+				<Entry varId="effImmune_knock" value="false"/>-->
+			</Preset>
+			<Preset id="1" displayName="gmConfig_Default">
+				<Entry varId="enableNoEncumbered" value="true"/>
+				<Entry varId="enableQuenNoBreak" value="true"/>
+				<Entry varId="timeQuenNoBreak" value="6000.00"/>
+				<Entry varId="enableSetToxicity" value="true"/>
+				<Entry varId="percentSetToxicity" value="0.00"/>
+				<Entry varId="enableNoToxicityCamEffect" value="true"/>
+				<Entry varId="typeWeather" value="1"/>
+				<!--<Entry varId="effImmune" value="true"/>
+				<Entry varId="effImmune_burn" value="true"/>
+				<Entry varId="effImmune_poison" value="true"/>
+				<Entry varId="effImmune_bleed" value="true"/>
+				<Entry varId="effImmune_stagger" value="true"/>
+				<Entry varId="effImmune_knock" value="true"/>-->
+			</Preset>
+		</PresetsArray>
+		<VisibleVars>
+			<Var id="enableNoEncumbered" displayName="gmConfig_enableNoEncumbered" displayType="TOGGLE"/>
+			<Var id="enableQuenNoBreak" displayName="gmConfig_enableQuenNoBreak" displayType="TOGGLE"/>
+			<Var id="timeQuenNoBreak" displayName="gmConfig_timeQuenNoBreak" displayType="SLIDER;0;6000;100"/>
+			<Var id="enableSetToxicity" displayName="gmConfig_enableSetToxicity" displayType="TOGGLE"/>
+			<Var id="percentSetToxicity" displayName="gmConfig_percentSetToxicity" displayType="SLIDER;0;100;100"/>
+			<Var id="enableNoToxicityCamEffect" displayName="gmConfig_enableNoToxicityCamEffect" displayType="TOGGLE"/>
+			<Var id="typeWeather" displayName="gmConfig_typeWeather" displayType="OPTIONS">
+				<OptionsArray>
+					<Option id="0" displayName="gmConfig_off">
+						<Entry varId="gmConfig_typeWeather" value="0"/>
+					</Option>
+					<Option id="1" displayName="gmConfig_typeWeather_sun">
+						<Entry varId="gmConfig_typeWeather" value="1"/>
+					</Option>
+					<Option id="2" displayName="gmConfig_typeWeather_rain">
+						<Entry varId="gmConfig_typeWeather" value="2"/>
+					</Option>
+					<Option id="3" displayName="gmConfig_typeWeather_snow">
+						<Entry varId="gmConfig_typeWeather" value="3"/>
+					</Option>
+				</OptionsArray>
+			</Var>
+<!--			<Var id="effImmune" displayName="gmConfig_effImmune" displayType="TOGGLE"/>
+			<Var id="effImmune_burn" displayName="gmConfig_effImmune_burn" displayType="TOGGLE"/>
+			<Var id="effImmune_poison" displayName="gmConfig_effImmune_poison" displayType="TOGGLE"/>
+			<Var id="effImmune_bleed" displayName="gmConfig_effImmune_bleed" displayType="TOGGLE"/>
+			<Var id="effImmune_stagger" displayName="gmConfig_effImmune_stagger" displayType="TOGGLE"/>
+			<Var id="effImmune_knock" displayName="gmConfig_effImmune_knock" displayType="TOGGLE"/>-->
+		</VisibleVars>
+	</Group>
+	<Group id="gmConfigItems" displayName="Mods.gmConfig_Menu.gmConfig_Items">
+		<PresetsArray>
+			<Preset id="0" displayName="gmConfig_off">
+				<Entry varId="enableNoItemLevel" value="false"/>
+				<Entry varId="enableUnlimitedPotions" value="false"/>
+				<Entry varId="enableUnlimitedPotDura" value="false"/>
+				<Entry varId="enableUnlimitedBombs" value="false"/>
+				<Entry varId="enableUnlimitedBolts" value="false"/>
+				<Entry varId="enableNoReload" value="false"/>
+				<Entry varId="enableUnlimitedOilCharges" value="false"/>
+				<Entry varId="enableUnlimitedMoney" value="false"/>
+				<Entry varId="enableStealingAllowed" value="false"/>
+				<!--				<Entry varId="enableUnlimitedSlots" value="false"/>-->
+				<Entry varId="enableMaxDurability" value="false"/>
+				<Entry varId="enableUnlimitedChants" value="false"/>
+				<Entry varId="enableUnlimitedDyes" value="false"/>
+				<!--				<Entry varId="enableUnlimitedAlbumen" value="false"/>-->
+				<Entry varId="enableFreeResearch" value="false"/>
+				<!--				<Entry varId="enableUnlimitedMutations" value="false"/>-->
+			</Preset>
+			<Preset id="1" displayName="gmConfig_Default">
+				<Entry varId="enableNoItemLevel" value="true"/>
+				<Entry varId="enableUnlimitedPotions" value="true"/>
+				<Entry varId="enableUnlimitedPotDura" value="true"/>
+				<Entry varId="enableUnlimitedBombs" value="true"/>
+				<Entry varId="enableUnlimitedBolts" value="true"/>
+				<Entry varId="enableNoReload" value="true"/>
+				<Entry varId="enableUnlimitedOilCharges" value="true"/>
+				<Entry varId="enableUnlimitedMoney" value="true"/>
+				<Entry varId="enableStealingAllowed" value="true"/>
+				<!--				<Entry varId="enableUnlimitedSlots" value="true"/>-->
+				<Entry varId="enableMaxDurability" value="true"/>
+				<Entry varId="enableUnlimitedChants" value="true"/>
+				<Entry varId="enableUnlimitedDyes" value="true"/>
+				<!--				<Entry varId="enableUnlimitedAlbumen" value="true"/>-->
+				<Entry varId="enableFreeResearch" value="true"/>
+				<!--				<Entry varId="enableUnlimitedMutations" value="true"/>-->
+			</Preset>
+		</PresetsArray>
+		<VisibleVars>
+			<Var id="enableNoItemLevel" displayName="gmConfig_enableNoItemLevel" displayType="TOGGLE"/>
+			<Var id="enableNoReload" displayName="gmConfig_enableNoReload" displayType="TOGGLE"/>
+			<Var id="enableStealingAllowed" displayName="gmConfig_enableStealingAllowed" displayType="TOGGLE"/>
+			<Var id="enableMaxDurability" displayName="gmConfig_enableMaxDurability" displayType="TOGGLE"/>
+			<Var id="enableFreeResearch" displayName="gmConfig_enableFreeResearch" displayType="TOGGLE"/>
+			<!--			<Var id="enableUnlimitedAlbumen" displayName="gmConfig_enableUnlimitedAlbumen" displayType="TOGGLE"/>-->
+			<Var id="enableUnlimitedBolts" displayName="gmConfig_enableUnlimitedBolts" displayType="TOGGLE"/>
+			<Var id="enableUnlimitedBombs" displayName="gmConfig_enableUnlimitedBombs" displayType="TOGGLE"/>
+			<Var id="enableUnlimitedDyes" displayName="gmConfig_enableUnlimitedDyes" displayType="TOGGLE"/>
+			<Var id="enableUnlimitedChants" displayName="gmConfig_enableUnlimitedChants" displayType="TOGGLE"/>
+			<Var id="enableUnlimitedMoney" displayName="gmConfig_enableUnlimitedMoney" displayType="TOGGLE"/>
+			<!--			<Var id="enableUnlimitedMutations" displayName="gmConfig_enableUnlimitedMutations" displayType="TOGGLE"/>-->
+			<Var id="enableUnlimitedOilCharges" displayName="gmConfig_enableUnlimitedOilCharges" displayType="TOGGLE"/>
+			<Var id="enableUnlimitedPotions" displayName="gmConfig_enableUnlimitedPotions" displayType="TOGGLE"/>
+			<Var id="enableUnlimitedPotDura" displayName="gmConfig_enableUnlimitedPotDura" displayType="TOGGLE"/>
+			<!--			<Var id="enableUnlimitedSlots" displayName="gmConfig_enableUnlimitedSlots" displayType="TOGGLE"/>-->
+		</VisibleVars>
+	</Group>
+	<Group id="gmConfigMovement" displayName="Mods.gmConfig_Menu.gmConfig_Movement">
+		<PresetsArray>
+			<Preset id="0" displayName="gmConfig_off">
+				<!--				<Entry varId="amountRunSpeed" value="1.00"/>-->
+				<Entry varId="enableJumpSprint" value="false"/>
+				<Entry varId="behaviorCallRoach" value="0"/>
+				<Entry varId="enableMaxRidingStamina" value="false"/>
+				<Entry varId="enableNoRidingFear" value="false"/>
+				<!--<Entry varId="enablePins" value="0"/>-->
+				<Entry varId="enableFastTravel" value="false"/>
+				<!--<Entry varId="enableImmuneKnock" value="false"/>-->
+			</Preset>
+			<Preset id="1" displayName="gmConfig_Default">
+				<!--<Entry varId="amountRunSpeed" value="1.00"/>-->
+				<Entry varId="enableJumpSprint" value="true"/>
+				<Entry varId="behaviorCallRoach" value="2"/>
+				<Entry varId="enableMaxRidingStamina" value="true"/>
+				<Entry varId="enableNoRidingFear" value="true"/>
+				<!--<Entry varId="enablePins" value="0"/>-->
+				<Entry varId="enableFastTravel" value="true"/>
+				<!--<Entry varId="enableImmuneKnock" value="true"/>-->
+			</Preset>
+		</PresetsArray>
+		<VisibleVars>
+			<!--			<Var id="amountRunSpeed" displayName="gmConfig_amountRunSpeed" displayType="SLIDER;0;25;200"/>-->
+			<Var id="enableJumpSprint" displayName="gmConfig_enableJumpSprint" displayType="TOGGLE"/>
+			<Var id="behaviorCallRoach" displayName="gmConfig_behaviorCallRoach" displayType="OPTIONS">
+				<OptionsArray>
+					<Option id="0" displayName="gmConfig_Default">
+						<Entry varId="behaviorInstaRoach" value="0"/>
+					</Option>
+					<Option id="1" displayName="gmConfig_behaviorCallRoach_near">
+						<Entry varId="behaviorInstaRoach" value="1"/>
+					</Option>
+					<Option id="2" displayName="gmConfig_behaviorCallRoach_mount">
+						<Entry varId="behaviorInstaRoach" value="2"/>
+					</Option>
+				</OptionsArray>
+			</Var>
+			<Var id="enableMaxRidingStamina" displayName="gmConfig_enableMaxRidingStamina" displayType="TOGGLE"/>
+			<Var id="enableNoRidingFear" displayName="gmConfig_enableNoRidingFear" displayType="TOGGLE"/>
+			<Var id="enableFastTravel" displayName="gmConfig_enableFastTravel" displayType="TOGGLE"/>
+			<!--<Var id="enablePins" displayName="gmConfig_enablePins" displayType="OPTIONS">
+				<OptionsArray>
+					<Option id="0" displayName="gmConfig_off">
+						<Entry varId="enableShowPins" value="0"/>
+					</Option>
+					<Option id="1" displayName="gmConfig_enablePins_fasttravel">
+						<Entry varId="enableShowPins" value="1"/>
+					</Option>
+					<Option id="2" displayName="gmConfig_enablePins_allpins">
+						<Entry varId="enableShowPins" value="2"/>
+					</Option>
+					<Option id="3" displayName="gmConfig_enablePins_allshowpins">
+						<Entry varId="enableShowPins" value="3"/>
+					</Option>
+				</OptionsArray>
+			</Var>-->
+			<!--<Var id="enableImmuneKnock" displayName="gmConfig_enableImmuneKnock" displayType="TOGGLE"/>-->
+		</VisibleVars>
+	</Group>
+	<Group id="gmConfigSense" displayName="Mods.gmConfig_Menu.gmConfig_Sense">
+		<PresetsArray>
+			<Preset id="0" displayName="gmConfig_off">
+				<Entry varId="enableSenseInstant" value="false"/>
+				<Entry varId="enableSenseJumpRun" value="false"/>
+			</Preset>
+			<Preset id="1" displayName="gmConfig_Default">
+				<Entry varId="enableSenseInstant" value="true"/>
+				<Entry varId="enableSenseJumpRun" value="true"/>
+			</Preset>
+		</PresetsArray>
+		<VisibleVars>
+			<Var id="enableSenseInstant" displayName="gmConfig_enableSenseInstant" displayType="TOGGLE"/>
+			<Var id="enableSenseJumpRun" displayName="gmConfig_enableSenseJumpRun" displayType="TOGGLE"/>
+		</VisibleVars>
+	</Group>
+	<Group id="gmConfigMisc" displayName="Mods.gmConfig_Menu.gmConfig_Misc">
+		<PresetsArray>
+			<Preset id="0" displayName="gmConfig_off">
+				<Entry varId="enableMutagenUnlock" value="false"/>
+				<Entry varId="enableYesNegotiate" value="false"/>
+				<Entry varId="enableWinGwint" value="false"/>
+				<Entry varId="enableTitanic" value="false"/>
+			</Preset>
+			<Preset id="1" displayName="gmConfig_Default">
+				<Entry varId="enableMutagenUnlock" value="true"/>
+				<Entry varId="enableYesNegotiate" value="true"/>
+				<Entry varId="enableWinGwint" value="true"/>
+				<Entry varId="enableTitanic" value="true"/>
+			</Preset>
+		</PresetsArray>
+		<VisibleVars>
+			<Var id="enableMutagenUnlock" displayName="gmConfig_enableMutagenUnlock" displayType="TOGGLE"/>
+			<Var id="enableYesNegotiate" displayName="gmConfig_enableYesNegotiate" displayType="TOGGLE"/>
+			<Var id="enableWinGwint" displayName="gmConfig_enableWinGwint" displayType="TOGGLE"/>
+			<Var id="enableTitanic" displayName="gmConfig_enableTitanic" displayType="TOGGLE"/>
+		</VisibleVars>
+	</Group>
+</UserConfig>

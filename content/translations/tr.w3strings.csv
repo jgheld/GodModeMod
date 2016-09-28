@@ -1,0 +1,269 @@
+;meta[language=tr]
+;    id    |key(hex)|                  key(str)                   |        text
+;*
+;*   Translated By: Adnan008
+;*                                                _  _ ____ _ _  _    _  _ ____ _  _ _  _
+;*                                                |\/| |__| | |\ |    |\/| |___ |\ | |  |
+;*                                                |  | |  | | | \|    |  | |___ | \| |__|
+;*                                                =======================================
+;*
+;----id----|key(hex)|----------------- key(str) ------------------|-------- text ---------------------------------------------
+ 2111509000|        |                 panel_Mods                  |Modlar
+ 2111509001|        |             panel_gmConfig_Menu             |Tanri Modu Menusu
+ 2111509002|        |        preset_value_gmConfig_Default        |Varsayilan
+ 2111509003|        |        option_gmConfig_resetSettings        |Butun Ayarlari Sifirla
+ 2111509004|        |             gmConfig_resetting              |Tanri Modu<br>-------------<br>Butun Ayarlar Sifirlaniyor
+ 2111509005|        |             gmConfig_unlimited              |Tanri Modu<br>-------------<br>Simdi <font color='#ff0000'>SINIRSIZ</font> Ok, Bomba, Boya, Gelistirme, Para, Yag Kullanimi, Iksir, ve Iksir Suresine Sahipsin.
+;2111509006|        |                                             |
+;2111509007|        |                                             |
+;2111509008|        |                                             |
+;2111509009|        |                                             |
+ 2111509010|        |         option_gmConfig_IgnoreThis          |Bu Ayari Bosver. Sadece Menude Mesaj Gostermek Icin Var.
+ 2111509011|        |            panel_gmConfig_Notice            |Lutfen Ayari Degistirmeden Once Oyun Yukleyin/Baslatin.
+ 2111509012|        |               gmConfig_Notice               |Lutfen Ayari Degistirmeden Once Oyun Yukleyin/Baslatin.
+ 2111509013|        |            panel_gmConfig_Blank             |<br>
+ 2111509014|        |               gmConfig_Blank                |<br>
+;2111509015|________|_____________________________________________|___________________________________________________________
+;2111509016|                                   ____ ___ ____ ___ ____    _  _ ____ _  _ _  _
+;2111509017|                                   [__   |  |__|  |  [__     |\/| |___ |\ | |  |
+;2111509018|                                   ___]  |  |  |  |  ___]    |  | |___ | \| |__|
+;2111509019|                                   =============================================
+;2111509020|
+;----id----|key(hex)|----------------- key(str) ------------------|-------- text ---------------------------------------------
+ 2111509022|        |            panel_gmConfig_Stats             |Karakter Statlari
+ 2111509023|        |  preset_Mods_gmConfig_Menu_gmConfig_Stats   |KARAKTER STATLARI AYARLARI
+ 2111509024|        |     option_gmConfig_enableTakeNoDamage      |Olumsuzluk
+ 2111509025|        |       option_gmConfig_enableNoFalling       |Dusunce Hasar Almama
+;2111509026|        |                                             |
+ 2111509027|        |       option_gmConfig_enableMaxFocus        |Sinirsiz Fokus / Adrenalin
+ 2111509028|        |      option_gmConfig_enableMaxStamina       |Sinirsiz Stamina
+;2111509029|        |                                             |
+ 2111509030|        |        option_gmConfig_enableMaxAir         |Sinirsiz Nefes
+;2111509031|        |                                             |
+;2111509032|        |                                             |
+;2111509033|        |                                             |
+;2111509034|        |                                             |
+;2111509035|        |                                             |
+;2111509036|        |                                             |
+ 2111509037|        |          preset_value_gmConfig_Add          |Ekle
+ 2111509038|        |        preset_value_gmConfig_Remove         |Cikar
+;2111509039|        |                                             |
+ 2111509040|        |       option_gmConfig_enableMutations       |Mutasyonlari Etkinlestir (DIKKAT: KALICI)
+ 2111509041|        |          option_gmConfig_modeLife           |Olumsuzluk Modu
+ 2111509042|        |  preset_value_gmConfig_modeLife_secondlife  |"Ikinci Hayat"
+ 2111509043|        |   preset_value_gmConfig_modeLife_undying    |"Olumsuz"
+ 2111509044|        |     preset_value_gmConfig_modeLife_none     |Hicbiri
+ 2111509045|        |                                             |
+;2111509046|        |                                             |
+;2111509047|        |                                             |
+;2111509048|        |                                             |
+;2111509049|        |                                             |
+;2111509050|________|_____________________________________________|___________________________________________________________
+;2111509051                                   ____ ____ _  _ ____ ____    _  _ ____ _  _ _  _
+;2111509052                                   [__  |___ |\ | [__  |___    |\/| |___ |\ | |  |
+;2111509053                                   ___] |___ | \| ___] |___    |  | |___ | \| |__|
+;2111509054                                   ===============================================
+;2111509055
+;----id----|key(hex)|----------------- key(str) ------------------|-------- text ---------------------------------------------
+ 2111509057|        |            panel_gmConfig_Sense             |Efsunger Hissi
+ 2111509058|        |  preset_Mods_gmConfig_Menu_gmConfig_Sense   |EFSUNGER HISSI AYARLARI
+ 2111509059|        |      option_gmConfig_enableSenseRange       |Hissin Menzilini Uzat
+ 2111509060|        |      option_gmConfig_amountSenseRange       |Efsunger Hissi Menzili
+ 2111509061|        |     option_gmConfig_enableSenseInstant      |Efsunger Hissi Aninda Devreye Girsin ve Menzili Uzasin
+ 2111509062|        |     option_gmConfig_enableSenseJumpRun      |His Acikken Depar / Ziplama
+;2111509063|        |                                             |
+;2111509064|        |                                             |
+;2111509065|        |                                             |
+;2111509066|        |                                             |
+;2111509067|        |                                             |
+;2111509068|        |                                             |
+;2111509069|        |                                             |
+;2111509070|        |                                             |
+;2111509071|        |                                             |
+;2111509072|        |                                             |
+;2111509073|        |                                             |
+;2111509074|        |                                             |
+;2111509075|        |                                             |
+;2111509076|        |                                             |
+;2111509077|________|_____________________________________________|___________________________________________________________
+;2111509078                              ____ ____ ____ ____ ____ ___ ____    _  _ ____ _  _ _  _
+;2111509079                              |___ |___ |___ |___ |     |  [__     |\/| |___ |\ | |  |
+;2111509080                              |___ |    |    |___ |___  |  ___]    |  | |___ | \| |__|
+;2111509081                              ========================================================
+;2111509082
+;----id----|key(hex)|----------------- key(str) ------------------|-------- text ---------------------------------------------
+ 2111509084|        |           panel_gmConfig_Effects            |Efektler
+ 2111509085|        | preset_Mods_gmConfig_Menu_gmConfig_Effects  |EFEKT AYARLARI
+ 2111509086|        |     option_gmConfig_enableNoEncumbered      |Sinirsiz Tasima Kapasitesi
+ 2111509087|        |      option_gmConfig_enableQuenNoBreak      |Quen Hasar Alinca Bozulmasin
+ 2111509088|        |       option_gmConfig_timeQuenNoBreak       |Quen Zamani (Saniye) (Varsayilan Icin 0)
+ 2111509089|        |      option_gmConfig_enableSetToxicity      |Toksisitenin Yuzdesini Ayarla
+ 2111509090|        |     option_gmConfig_percentSetToxicity      |Toksisite %
+ 2111509091|        |  option_gmConfig_enableNoToxicityCamEffect  |Toksisite Kamera Efekti Kalksin
+ 2111509092|        |         option_gmConfig_typeWeather         |Hava Durumunu Ayarla
+ 2111509093|        |          preset_value_gmConfig_off          |Devre Disi
+ 2111509094|        |    preset_value_gmConfig_typeWeather_sun    |Gunesli Acik Hava
+ 2111509095|        |   preset_value_gmConfig_typeWeather_rain    |Yagmurlu Firtina
+ 2111509096|        |   preset_value_gmConfig_typeWeather_snow    |Kar
+ 2111509097|        |          option_gmConfig_effImmune          |Negatif Efektlerden Etkilenmeme
+ 2111509098|        |       option_gmConfig_effImmune_burn        |Yanmaktan etkilenme
+ 2111509099|        |      option_gmConfig_effImmune_poison       |Zehirlenmekten etkilenme
+ 2111509100|        |       option_gmConfig_effImmune_bleed       |Kanamaktan etkilenme
+ 2111509101|        |      option_gmConfig_effImmune_stagger      |Sersemlemekten etkilenme
+ 2111509102|        |       option_gmConfig_effImmune_knock       |Yere dusmekten etkilenme
+;2111509103|        |                                             |
+;2111509104|        |                                             |
+;2111509105|        |                                             |
+;2111509106|        |                                             |
+;2111509107|        |                                             |
+;2111509108|        |                                             |
+;2111509109|        |                                             |
+;2111509110|        |                                             |
+;2111509111|________|_____________________________________________|___________________________________________________________
+;2111509112                                     _ ___ ____ _  _ ____    _  _ ____ _  _ _  _
+;2111509113                                     |  |  |___ |\/| [__     |\/| |___ |\ | |  |
+;2111509114                                     |  |  |___ |  | ___]    |  | |___ | \| |__|
+;2111509115                                     ===========================================
+;2111509116
+;----id----|key(hex)|----------------- key(str) ------------------|-------- text ---------------------------------------------
+ 2111509118|        |            panel_gmConfig_Items             |Esyalar
+ 2111509119|        |  preset_Mods_gmConfig_Menu_gmConfig_Items   |ESYA AYARLARI
+ 2111509120|        |      option_gmConfig_enableNoItemLevel      |Esyalarda Seyive Gereksinimi Kalksin
+ 2111509121|        |   option_gmConfig_enableUnlimitedPotions    |Sinirsiz Iksir
+ 2111509122|        | option_gmConfig_enableUnlimitedPotDura      |Sinirsiz Iksir Suresi
+ 2111509123|        |    option_gmConfig_enableUnlimitedBombs     |Sinirsiz Bomba
+ 2111509124|        |    option_gmConfig_enableUnlimitedBolts     |Sinirsiz Ok
+ 2111509125|        |       option_gmConfig_enableNoReload        |Yay Reloadi Yok
+ 2111509126|        |  option_gmConfig_enableUnlimitedOilCharges  |Sinirsiz Yaglama
+ 2111509127|        |    option_gmConfig_enableUnlimitedMoney     |Sinirsiz Para
+ 2111509128|        |    option_gmConfig_enableStealingAllowed    |Esya Calmaya Izin Verilsin
+ 2111509129|        |     option_gmConfig_enableMaxDurability     |Dayaniklilik Hasari Yok
+;2111509130|        |                                             |
+;2111509131|        |                                             |
+ 2111509132|        |    option_gmConfig_enableUnlimitedChants    |Sinirsiz Gelistirmeler
+ 2111509133|        |    option_gmConfig_enableUnlimitedSlots     |Sinirsiz Run slotu
+ 2111509134|        |     option_gmConfig_enableUnlimitedDyes     |Sinirsiz Boya
+;2111509135|        |                                             |
+;2111509136|        |                                             |
+ 2111509137|        |    option_gmConfig_enableUnlimitedItems     |Sinirsiz Hersey (Iksir ve Suresi / Bomba / Ok / Para / Boya)
+ 2111509138|        |     option_gmConfig_enableFreeResearch      |Ucretsiz Mutasyon Arastirmasi
+ 2111509139|        |     option_gmConfig_enableSuperPotions      |Super Iksirler (Butun efektler bir arada)
+ 2111509140|        |     option_gmConfig_enableSuperMutagens     |Super Mutajenler (Butun efektler bir arada)
+;2111509141|        |                                             |
+;2111509142|        |                                             |
+;2111509143|        |                                             |
+;2111509144|        |                                             |
+;2111509145|        |                                             |
+;2111509146|        |                                             |
+;2111509147|        |                                             |
+;2111509148|        |                                             |
+;2111509149|        |                                             |
+;2111509150|________|_____________________________________________|___________________________________________________________
+;2111509151                                       _  _ _ ____ ____    _  _ ____ _  _ _  _
+;2111509152                                       |\/| | [__  |       |\/| |___ |\ | |  |
+;2111509153                                       |  | | ___] |___    |  | |___ | \| |__|
+;2111509154                                       =======================================
+;2111509155
+;----id----|key(hex)|----------------- key(str) ------------------|-------- text ---------------------------------------------
+ 2111509157|        |             panel_gmConfig_Misc             |Digerleri
+ 2111509158|        |   preset_Mods_gmConfig_Menu_gmConfig_Misc   |DIGER AYARLAR
+;2111509159|        |                                             |
+;2111509160|        |                                             |
+ 2111509161|        |     option_gmConfig_enableMutagenUnlock     |Butun Mutajen Slotlarini Ac
+;2111509162|        |                                             |
+ 2111509163|        |     option_gmConfig_enableYesNegotiate      |Pazarlikta Herzaman Teklifleri Kabul Etsinler
+ 2111509164|        |       option_gmConfig_enableWinGwint        |Gwentten Cekildiginde Oyunu Kazan
+;2111509165|        |                                             |
+;2111509166|        |                                             |
+;2111509167|        |                                             |
+;2111509168|        |                                             |
+;2111509169|        |                                             |
+;2111509170|        |                                             |
+ 2111509171|        |        option_gmConfig_enableTitanic        |Tekneler Hasar Almasin
+;2111509172|        |                                             |
+;2111509173|        |                                             |
+;2111509174|        |                                             |
+;2111509175|        |                                             |
+;2111509176|        |                                             |
+;2111509177|________|_____________________________________________|___________________________________________________________
+;2111509178                                 ____ ____ ____ ____ ___ _ _  _ ____    _  _ ____ _  _ _  _
+;2111509179                                 |    |__/ |__| |___  |  | |\ | | __    |\/| |___ |\ | |  |
+;2111509180                                 |___ |  \ |  | |     |  | | \| |__]    |  | |___ | \| |__|
+;2111509181                                 ==========================================================
+;2111509182
+;----id----|key(hex)|----------------- key(str) ------------------|-------- text ---------------------------------------------
+ 2111509184|        |            panel_gmConfig_Craft             |Zanaatkarlik
+ 2111509185|        |  preset_Mods_gmConfig_Menu_gmConfig_Craft   |ZANAATKARLIK AYARLARI
+ 2111509186|        |     option_gmConfig_enableFreeCrafting      |Zanaatkarliklar Materyal / Para Kullanmasin
+ 2111509187|        |     option_gmConfig_enableNoMatCrafting     |Zanaatkarlikta Materyala Ihtiyac Kalmasin
+ 2111509188|        |    option_gmConfig_enableInstantCrafting    |Aninda Craft
+ 2111509189|        |     option_gmConfig_enableCraftAnywhere     |Butun Zanaatkarlarda Herseyi Uret
+;2111509190|        |                                             |
+;2111509191|        |                                             |
+;2111509192|        |                                             |
+;2111509193|        |                                             |
+;2111509194|        |                                             |
+;2111509195|        |                                             |
+;2111509196|        |                                             |
+;2111509197|        |                                             |
+;2111509198|        |                                             |
+;2111509199|        |                                             |
+;2111509200|        |                                             |
+;2111509201|        |                                             |
+;2111509202|        |                                             |
+;2111509203|        |                                             |
+;2111509204|________|_____________________________________________|___________________________________________________________
+;2111509205                                _  _ ____ _  _ ____ _  _ ____ _  _ ___    _  _ ____ _  _ _  _
+;2111509206                                |\/| |  | |  | |___ |\/| |___ |\ |  |     |\/| |___ |\ | |  |
+;2111509207                                |  | |__|  \/  |___ |  | |___ | \|  |     |  | |___ | \| |__|
+;2111509208                                =============================================================
+;2111509209
+;----id----|key(hex)|----------------- key(str) ------------------|-------- text ---------------------------------------------
+ 2111509211|        |           panel_gmConfig_Movement           |Hareket
+ 2111509212|        | preset_Mods_gmConfig_Menu_gmConfig_Movement |HAREKET AYARLARI
+ 2111509213|        |       option_gmConfig_amountRunSpeed        |Kosma Hizi Carpani
+ 2111509214|        |       option_gmConfig_enableCallRoach       |Kizilgozu Hemen Cagir
+ 2111509215|        |      option_gmConfig_behaviorCallRoach      |Kizilgozu Hemen Cagirma Modu
+ 2111509216|        |preset_value_gmConfig_behaviorCallRoach_mount|Cagirir Cagirmaz Ustune Bin
+ 2111509217|        |preset_value_gmConfig_behaviorCallRoach_near |Aninda Yanina Isinlansin
+ 2111509218|        |   option_gmConfig_enableMaxRidingStamina    |Atin Staminasi
+ 2111509219|        |     option_gmConfig_enableNoRidingFear      |Atin Korkusu Yok / Sehir Icinde Depar Atsin
+ 2111509220|        |         option_gmConfig_enablePins          |Kesfedilmemis Noktalari Goster	
+ 2111509221|        | preset_value_gmConfig_enablePins_fasttravel |Sadece Hizli Seyahat Noktalari
+ 2111509222|        |  preset_value_gmConfig_enablePins_allpins   |Kesfedilmemisler Dahil Butun Noktalar
+ 2111509223|        |preset_value_gmConfig_enablePins_allshowpins |Kesfedilmis Butun Noktalar
+ 2111509224|        |      option_gmConfig_enableFastTravel       |Heryerden Hizli Seyahat Yap
+ 2111509225|        |      option_gmConfig_enableJumpSprint       |Heryerde Kos / Zipla
+ 2111509226|        |      option_gmConfig_enableImmuneKnock      |Sersemlemeye ve Yere Dusmeye Karsi Bagisiklik
+;2111509227|        |                                             |
+;2111509228|        |                                             |
+;2111509229|        |                                             |
+;2111509230|        |                                             |
+;2111509231|________|_____________________________________________|___________________________________________________________
+;2111509232                                    ___  ____ _  _ ____ ____ ____    _  _ ____ _  _ _  _
+;2111509233                                    |  \ |__| |\/| |__| | __ |___    |\/| |___ |\ | |  |
+;2111509234                                    |__/ |  | |  | |  | |__] |___    |  | |___ | \| |__|
+;2111509235                                    ====================================================
+;2111509236
+;----id----|key(hex)|----------------- key(str) ------------------|-------- text ---------------------------------------------
+ 2111509238|        |            panel_gmConfig_Damage            |Verilen Hasar
+ 2111509239|        |  preset_Mods_gmConfig_Menu_gmConfig_Damage  |VERILEN HASAR AYARLARI
+ 2111509240|        |     option_gmConfig_amountCBDamageMult      |Hasar katsayisi (Ok)
+ 2111509241|        |      option_gmConfig_amountDamageMult       |Hasar katsayisi (Hepsi)
+ 2111509242|        |    option_gmConfig_amountBombDamageMult     |Hasar katsayisi (Bomba)
+ 2111509243|        |     option_gmConfig_amountFFDamageMult      |Hasar katsayisi (Kavga)
+ 2111509244|        |     option_gmConfig_amountSSDamageMult      |Hasar katsayisi (Kilic)
+ 2111509245|        |     option_gmConfig_amountDoTDamageMult     |Hasar katsayisi (Zaman Icinde Hasar)
+ 2111509246|        |    option_gmConfig_amountSignDamageMult     |Hasar katsayisi (Isaret)
+ 2111509247|        |       option_gmConfig_enableCustomDmg       |Hasar katsayisini Etkinlestir
+;2111509248|        |                                             |
+;2111509249|        |                                             |
+;2111509250|        |                                             |
+;2111509251|        |                                             |
+;2111509252|        |                                             |
+;2111509253|        |                                             |
+;2111509254|        |                                             |
+;2111509255|        |                                             |
+;2111509256|        |                                             |
+;2111509257|        |                                             |
+;2111509258|________|_____________________________________________|___________________________________________________________

@@ -1,0 +1,269 @@
+;meta[language=de]
+;    id    |key(hex)|                  key(str)                   |        text
+;*
+;*   Translated By: Veyilla (so I can credit you.)
+;*                                                _  _ ____ _ _  _    _  _ ____ _  _ _  _
+;*                                                |\/| |__| | |\ |    |\/| |___ |\ | |  |
+;*                                                |  | |  | | | \|    |  | |___ | \| |__|
+;*                                                =======================================
+;*
+;----id----|key(hex)|----------------- key(str) ------------------|-------- text ---------------------------------------------
+ 2111509000|        |                 panel_Mods                  |Mods
+ 2111509001|        |             panel_gmConfig_Menu             |God Mode Menü
+ 2111509002|        |        preset_value_gmConfig_Default        |Standard
+ 2111509003|        |        option_gmConfig_resetSettings        |Alle Einstellungen Zurücksetzen
+ 2111509004|        |             gmConfig_resetting              |God Mode Mod<br>-------------<br>Standard Einstellungen Wiederherstellen
+ 2111509005|        |             gmConfig_unlimited              |God Mode Mod<br>-------------<br>Du hast nun <font color='#ff0000'>UNENDLICH</font> Boltzen, Bomben, Färbemittel, Verzauberungen, Geld, Ölkosten, Tränke und Tränkedauer.
+;2111509006|        |                                             |
+;2111509007|        |                                             |
+;2111509008|        |                                             |
+;2111509009|        |                                             |
+ 2111509010|        |         option_gmConfig_IgnoreThis          |Ignoriere diese Einstellung.  Es ist nur hier um die Einstellungen im Menü zu zeigen.
+ 2111509011|        |            panel_gmConfig_Notice            |Bitte starte/lade ein Spiel bevor du die Einstellungen änderst
+ 2111509012|        |               gmConfig_Notice               |Bitte starte/lade ein Spiel bevor du die Einstellungen änderst
+ 2111509013|        |            panel_gmConfig_Blank             |<br>
+ 2111509014|        |               gmConfig_Blank                |<br>
+;2111509015|________|_____________________________________________|___________________________________________________________
+;2111509016|                                   ____ ___ ____ ___ ____    _  _ ____ _  _ _  _
+;2111509017|                                   [__   |  |__|  |  [__     |\/| |___ |\ | |  |
+;2111509018|                                   ___]  |  |  |  |  ___]    |  | |___ | \| |__|
+;2111509019|                                   =============================================
+;2111509020|
+;----id----|key(hex)|----------------- key(str) ------------------|-------- text ---------------------------------------------
+ 2111509022|        |            panel_gmConfig_Stats             |Charakter Statistiken
+ 2111509023|        |  preset_Mods_gmConfig_Menu_gmConfig_Stats   |Charakter Statistiken zurücksetzen
+ 2111509024|        |     option_gmConfig_enableTakeNoDamage      |Nimm keinen Schaden
+ 2111509025|        |       option_gmConfig_enableNoFalling       |Entferne Fallschaden
+;2111509026|        |                                             |
+ 2111509027|        |       option_gmConfig_enableMaxFocus        |Unendlich Fokus/Adrenalin
+ 2111509028|        |      option_gmConfig_enableMaxStamina       |Unendlich Ausdauer
+;2111509029|        |                                             |
+ 2111509030|        |        option_gmConfig_enableMaxAir         |Unendlicher Atem
+;2111509031|        |                                             |
+;2111509032|        |                                             |
+;2111509033|        |                                             |
+;2111509034|        |                                             |
+;2111509035|        |                                             |
+;2111509036|        |                                             |
+ 2111509037|        |          preset_value_gmConfig_Add          |Hinzufügen
+ 2111509038|        |        preset_value_gmConfig_Remove         |Entfernen
+;2111509039|        |                                             |
+ 2111509040|        |       option_gmConfig_enableMutations       |Aktiviere Mutationen(ACHTUNG: Permanent!)
+ 2111509041|        |          option_gmConfig_modeLife           |Unsichtbarer Modus
+ 2111509042|        |  preset_value_gmConfig_modeLife_secondlife  |"Zweites Leben"
+ 2111509043|        |   preset_value_gmConfig_modeLife_undying    |"Unsterblich"
+ 2111509044|        |     preset_value_gmConfig_modeLife_none     |Nichts
+;2111509045|        |                                             |
+;2111509046|        |                                             |
+;2111509047|        |                                             |
+;2111509048|        |                                             |
+;2111509049|        |                                             |
+;2111509050|________|_____________________________________________|___________________________________________________________
+;2111509051                                   ____ ____ _  _ ____ ____    _  _ ____ _  _ _  _
+;2111509052                                   [__  |___ |\ | [__  |___    |\/| |___ |\ | |  |
+;2111509053                                   ___] |___ | \| ___] |___    |  | |___ | \| |__|
+;2111509054                                   ===============================================
+;2111509055
+;----id----|key(hex)|----------------- key(str) ------------------|-------- text ---------------------------------------------
+ 2111509057|        |            panel_gmConfig_Sense             |Hexersinne
+ 2111509058|        |  preset_Mods_gmConfig_Menu_gmConfig_Sense   |Hexersinne zurücksetzen
+ 2111509059|        |      option_gmConfig_enableSenseRange       |Reichweite der Sinne
+ 2111509060|        |      option_gmConfig_amountSenseRange       |Erhöhungsmenge der Sinnesreichweite
+ 2111509061|        |     option_gmConfig_enableSenseInstant      |Dauerhafte Sinne (kein einblenden)
+ 2111509062|        |     option_gmConfig_enableSenseJumpRun      |Springe/Renne mit Sinne
+;2111509063|        |                                             |
+;2111509064|        |                                             |
+;2111509065|        |                                             |
+;2111509066|        |                                             |
+;2111509067|        |                                             |
+;2111509068|        |                                             |
+;2111509069|        |                                             |
+;2111509070|        |                                             |
+;2111509071|        |                                             |
+;2111509072|        |                                             |
+;2111509073|        |                                             |
+;2111509074|        |                                             |
+;2111509075|        |                                             |
+;2111509076|        |                                             |
+;2111509077|________|_____________________________________________|___________________________________________________________
+;2111509078                              ____ ____ ____ ____ ____ ___ ____    _  _ ____ _  _ _  _
+;2111509079                              |___ |___ |___ |___ |     |  [__     |\/| |___ |\ | |  |
+;2111509080                              |___ |    |    |___ |___  |  ___]    |  | |___ | \| |__|
+;2111509081                              ========================================================
+;2111509082
+;----id----|key(hex)|----------------- key(str) ------------------|-------- text ---------------------------------------------
+ 2111509084|        |           panel_gmConfig_Effects            |Effekte
+ 2111509085|        | preset_Mods_gmConfig_Menu_gmConfig_Effects  |Effekte zurücksetzen
+ 2111509086|        |     option_gmConfig_enableNoEncumbered      |Keine Gewichtsbelastung
+ 2111509087|        |      option_gmConfig_enableQuenNoBreak      |Quen wird nicht zerstört bei Schaden
+ 2111509088|        |       option_gmConfig_timeQuenNoBreak       |Länge von Quen (in sek) (0 für Standard)
+ 2111509089|        |      option_gmConfig_enableSetToxicity      |Toxizitäts Einstellungen
+ 2111509090|        |     option_gmConfig_percentSetToxicity      |Stelle % der Toxizität auf
+ 2111509091|        |  option_gmConfig_enableNoToxicityCamEffect  |Kein Kameraeffekt bei Vergiftung
+ 2111509092|        |         option_gmConfig_typeWeather         |Einstellung der Wetterbedingungen
+ 2111509093|        |          preset_value_gmConfig_off          |Deaktiviert
+ 2111509094|        |    preset_value_gmConfig_typeWeather_sun    |Sonnig
+ 2111509095|        |   preset_value_gmConfig_typeWeather_rain    |Stürmischer Regen
+ 2111509096|        |   preset_value_gmConfig_typeWeather_snow    |Schnee
+ 2111509097|        |          option_gmConfig_effImmune          |Unempfindlich gegen Statuseffekte
+ 2111509098|        |       option_gmConfig_effImmune_burn        |Verbrennungen
+ 2111509099|        |      option_gmConfig_effImmune_poison       |Vergiftung
+ 2111509100|        |       option_gmConfig_effImmune_bleed       |Blutung
+;2111509101|        |                                             |
+;2111509102|        |                                             |
+;2111509103|        |                                             |
+;2111509104|        |                                             |
+;2111509105|        |                                             |
+;2111509106|        |                                             |
+;2111509107|        |                                             |
+;2111509108|        |                                             |
+;2111509109|        |                                             |
+;2111509110|        |                                             |
+;2111509111|________|_____________________________________________|___________________________________________________________
+;2111509112                                     _ ___ ____ _  _ ____    _  _ ____ _  _ _  _
+;2111509113                                     |  |  |___ |\/| [__     |\/| |___ |\ | |  |
+;2111509114                                     |  |  |___ |  | ___]    |  | |___ | \| |__|
+;2111509115                                     ===========================================
+;2111509116
+;----id----|key(hex)|----------------- key(str) ------------------|-------- text ---------------------------------------------
+ 2111509118|        |            panel_gmConfig_Items             |Gegenstände
+ 2111509119|        |  preset_Mods_gmConfig_Menu_gmConfig_Items   |Gegenstände zurücksetzen
+ 2111509120|        |      option_gmConfig_enableNoItemLevel      |Kein Gegenstandslevel benötigt
+ 2111509121|        |   option_gmConfig_enableUnlimitedPotions    |Unendliche Tränke
+ 2111509122|        | option_gmConfig_enableUnlimitedPotDura      |Unendliche Trankdauer
+ 2111509123|        |    option_gmConfig_enableUnlimitedBombs     |Unendliche Bomben
+ 2111509124|        |    option_gmConfig_enableUnlimitedBolts     |Unendliche Armbrustboltzen
+ 2111509125|        |       option_gmConfig_enableNoReload        |Kein nachladen der Armbrust
+ 2111509126|        |  option_gmConfig_enableUnlimitedOilCharges  |Unendliche Ölkosten
+ 2111509127|        |    option_gmConfig_enableUnlimitedMoney     |Geld verringert sich nicht
+ 2111509128|        |    option_gmConfig_enableStealingAllowed    |Stehlen erlaubt
+ 2111509129|        |     option_gmConfig_enableMaxDurability     |Immer max Haltbarkeit
+;2111509130|        |                                             |
+;2111509131|        |                                             |
+ 2111509132|        |    option_gmConfig_enableUnlimitedChants    |Unendliche Waffenverzauberungen
+ 2111509133|        |    option_gmConfig_enableUnlimitedSlots     |Unednliche Runenplätze
+ 2111509134|        |     option_gmConfig_enableUnlimitedDyes     |Unendliche Färbemittel
+;2111509135|        |                                             |
+;2111509136|        |                                             |
+ 2111509137|        |    option_gmConfig_enableUnlimitedItems     |Alles Unendlich (Tränke&Dauer/Bomben/Boltzen/Geld/Färbemittel)
+ 2111509138|        |     option_gmConfig_enableFreeResearch      |Freie Mutagen Erforschung
+ 2111509139|        |     option_gmConfig_enableSuperPotions      |Super Tränke(Alle Effekte von einem)
+ 2111509140|        |     option_gmConfig_enableSuperMutagens     |Super Mutagene (Alle Effekte von einem)
+;2111509141|        |                                             |
+;2111509142|        |                                             |
+;2111509143|        |                                             |
+;2111509144|        |                                             |
+;2111509145|        |                                             |
+;2111509146|        |                                             |
+;2111509147|        |                                             |
+;2111509148|        |                                             |
+;2111509149|        |                                             |
+;2111509150|________|_____________________________________________|___________________________________________________________
+;2111509151                                       _  _ _ ____ ____    _  _ ____ _  _ _  _
+;2111509152                                       |\/| | [__  |       |\/| |___ |\ | |  |
+;2111509153                                       |  | | ___] |___    |  | |___ | \| |__|
+;2111509154                                       =======================================
+;2111509155
+;----id----|key(hex)|----------------- key(str) ------------------|-------- text ---------------------------------------------
+ 2111509157|        |             panel_gmConfig_Misc             |Sonstiges
+ 2111509158|        |   preset_Mods_gmConfig_Menu_gmConfig_Misc   |Sonstiges zurücksetzen
+;2111509159|        |                                             |
+;2111509160|        |                                             |
+ 2111509161|        |     option_gmConfig_enableMutagenUnlock     |Schalte alle Mutagenplätze frei
+;2111509162|        |                                             |
+ 2111509163|        |     option_gmConfig_enableYesNegotiate      |Akzeptiert immer das Angebot
+ 2111509164|        |       option_gmConfig_enableWinGwint        |Gewinne Gwent vor dem Aufgeben
+;2111509165|        |                                             |
+;2111509166|        |                                             |
+;2111509167|        |                                             |
+;2111509168|        |                                             |
+;2111509169|        |                                             |
+;2111509170|        |                                             |
+ 2111509171|        |        option_gmConfig_enableTitanic        |Bote nehmen keinen Schaden
+;2111509172|        |                                             |
+;2111509173|        |                                             |
+;2111509174|        |                                             |
+;2111509175|        |                                             |
+;2111509176|        |                                             |
+;2111509177|________|_____________________________________________|___________________________________________________________
+;2111509178                                 ____ ____ ____ ____ ___ _ _  _ ____    _  _ ____ _  _ _  _
+;2111509179                                 |    |__/ |__| |___  |  | |\ | | __    |\/| |___ |\ | |  |
+;2111509180                                 |___ |  \ |  | |     |  | | \| |__]    |  | |___ | \| |__|
+;2111509181                                 ==========================================================
+;2111509182
+;----id----|key(hex)|----------------- key(str) ------------------|-------- text ---------------------------------------------
+ 2111509184|        |            panel_gmConfig_Craft             |Herstellung
+ 2111509185|        |  preset_Mods_gmConfig_Menu_gmConfig_Craft   |Herstellung zurücksetzen
+ 2111509186|        |     option_gmConfig_enableFreeCrafting      |Herstellung ist Kostenlos
+ 2111509187|        |     option_gmConfig_enableNoMatCrafting     |Herstellung braucht kein Material/Kronen
+ 2111509188|        |    option_gmConfig_enableInstantCrafting    |Dauerhaftes Herstellen
+ 2111509189|        |     option_gmConfig_enableCraftAnywhere     |Alle Handwerker stellen alles her
+;2111509190|        |                                             |
+;2111509191|        |                                             |
+;2111509192|        |                                             |
+;2111509193|        |                                             |
+;2111509194|        |                                             |
+;2111509195|        |                                             |
+;2111509196|        |                                             |
+;2111509197|        |                                             |
+;2111509198|        |                                             |
+;2111509199|        |                                             |
+;2111509200|        |                                             |
+;2111509201|        |                                             |
+;2111509202|        |                                             |
+;2111509203|        |                                             |
+;2111509204|________|_____________________________________________|___________________________________________________________
+;2111509205                                _  _ ____ _  _ ____ _  _ ____ _  _ ___    _  _ ____ _  _ _  _
+;2111509206                                |\/| |  | |  | |___ |\/| |___ |\ |  |     |\/| |___ |\ | |  |
+;2111509207                                |  | |__|  \/  |___ |  | |___ | \|  |     |  | |___ | \| |__|
+;2111509208                                =============================================================
+;2111509209
+;----id----|key(hex)|----------------- key(str) ------------------|-------- text ---------------------------------------------
+ 2111509211|        |           panel_gmConfig_Movement           |Fortbewegung
+ 2111509212|        | preset_Mods_gmConfig_Menu_gmConfig_Movement |Fortbewebung zurücksetzen
+ 2111509213|        |       option_gmConfig_amountRunSpeed        |Renn Geschwindigkeitsmultiplikator
+ 2111509214|        |       option_gmConfig_enableCallRoach       |Rufe Plötze dauerhaft
+ 2111509215|        |      option_gmConfig_behaviorCallRoach      |Verhaltensweise beim rufen von Plötze
+ 2111509216|        |preset_value_gmConfig_behaviorCallRoach_mount|Dauerhaft Beschwören & Aufsitzen
+ 2111509217|        |preset_value_gmConfig_behaviorCallRoach_near |Dauerhaft in der nähe Beschwören
+ 2111509218|        |   option_gmConfig_enableMaxRidingStamina    |Max Pferdeausdauer
+ 2111509219|        |     option_gmConfig_enableNoRidingFear      |Keine Pferdeangst & Reiten in Städten
+ 2111509220|        |         option_gmConfig_enablePins          |Zeige unerkundete Orte
+ 2111509221|        | preset_value_gmConfig_enablePins_fasttravel |Nur schnelles Reisen
+ 2111509222|        |  preset_value_gmConfig_enablePins_allpins   |Alle Orte, Unentdeckt
+ 2111509223|        |preset_value_gmConfig_enablePins_allshowpins |Alle Orte, Entdeckt
+ 2111509224|        |      option_gmConfig_enableFastTravel       |Schnelles reisen von überall
+ 2111509225|        |      option_gmConfig_enableJumpSprint       |Renne/Springe überall
+ 2111509226|        |      option_gmConfig_enableImmuneKnock      |Immun zu Taumeln & Niederschlagen
+;2111509227|        |                                             |
+;2111509228|        |                                             |
+;2111509229|        |                                             |
+;2111509230|        |                                             |
+;2111509231|________|_____________________________________________|___________________________________________________________
+;2111509232                                    ___  ____ _  _ ____ ____ ____    _  _ ____ _  _ _  _
+;2111509233                                    |  \ |__| |\/| |__| | __ |___    |\/| |___ |\ | |  |
+;2111509234                                    |__/ |  | |  | |  | |__] |___    |  | |___ | \| |__|
+;2111509235                                    ====================================================
+;2111509236
+;----id----|key(hex)|----------------- key(str) ------------------|-------- text ---------------------------------------------
+ 2111509238|        |            panel_gmConfig_Damage            |Schaden
+ 2111509239|        |  preset_Mods_gmConfig_Menu_gmConfig_Damage  |Schaden zurücksetzen
+ 2111509240|        |     option_gmConfig_amountCBDamageMult      |Armbrust Schadensmultiplikator
+ 2111509241|        |      option_gmConfig_amountDamageMult       |Menge des Schadensmultiplikators
+ 2111509242|        |    option_gmConfig_amountBombDamageMult     |Bomben Schadensmultiplikator
+ 2111509243|        |     option_gmConfig_amountFFDamageMult      |Faustkampf Schadensmultiplikator
+ 2111509244|        |     option_gmConfig_amountSSDamageMult      |Schwertschadens Multiplikator
+ 2111509245|        |     option_gmConfig_amountDoTDamageMult     |DoT Schadensmultiplikator
+ 2111509246|        |    option_gmConfig_amountSignDamageMult     |Zeichen Schadensmultiplikator
+ 2111509247|        |       option_gmConfig_enableCustomDmg       |Erhöhe Schaden
+;2111509248|        |                                             |
+;2111509249|        |                                             |
+;2111509250|        |                                             |
+;2111509251|        |                                             |
+;2111509252|        |                                             |
+;2111509253|        |                                             |
+;2111509254|        |                                             |
+;2111509255|        |                                             |
+;2111509256|        |                                             |
+;2111509257|        |                                             |
+;2111509258|________|_____________________________________________|___________________________________________________________
